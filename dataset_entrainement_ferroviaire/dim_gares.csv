@@ -1,0 +1,16 @@
+gare_id,nom_gare,region,latitude,longitude
+G01,Nantes,Pays de la Loire,47.2173,-1.5424
+G02,Paris Montparnasse,Ile-de-France,48.8402,2.3202
+G03,Rennes,Bretagne,48.1036,-1.6725
+G04,Angers,Pays de la Loire,47.4636,-0.5548
+G05,Bordeaux,Nouvelle-Aquitaine,44.8256,-0.5563
+G06,Lyon Part-Dieu,Auvergne-Rhone-Alpes,45.7607,4.859
+G07,Lille Flandres,Hauts-de-France,50.6365,3.0708
+G08,Le Mans,Pays de la Loire,48.0019,0.1957
+G09,Tours,Centre-Val de Loire,47.3888,0.6925
+G10,Marseille St-Charles,Provence-Alpes-Cote d'Azur,43.3028,5.3805
+G11,Strasbourg,Grand Est,48.5851,7.7343
+G12,Toulouse Matabiau,Occitanie,43.6112,1.4535
+G13,Nice Ville,Provence-Alpes-Cote d'Azur,43.7047,7.262
+G14,Vannes,Bretagne,47.6588,-2.7603
+G15,La Rochelle,Nouvelle-Aquitaine,46.1591,-1.152
